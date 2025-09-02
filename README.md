@@ -23,3 +23,6 @@ The application now shows different interfaces and data based on the logged-in u
 • Integrating Supabase for real user authentication and data persistence
 • Adding real-time notifications for security alerts
 • Implementing advanced audit logging for compliance tracking
+
+The link to the Project
+https://www.figma.com/make/AvR0NwsLBqPqWBextc8pPj/Blockchain-for-Medicine?node-id=0-4&t=v5FBhLcsdEmspYOp-0
